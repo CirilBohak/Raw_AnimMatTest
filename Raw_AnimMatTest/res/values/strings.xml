@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">RawTut1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_rajawali_tutorial1">RajawaliTutorial1Activity</string>
+
+</resources>
